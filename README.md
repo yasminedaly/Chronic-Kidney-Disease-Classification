@@ -1,4 +1,4 @@
-# StreamlitCKD
+# Chronic-Kidney-Disease-Classification
 As part of my academic Machine Learning module, I was part of a team of 5 colleagues where we had to read two scientific articles and recreate them using the various machine learning methods we learned.
 The articles worked on a Chronic Kidney Disease dataset available on UCI. We made 3 Jupyter notebooks, one for each article and a final notebook that had our improvements in it.
 
